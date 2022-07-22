@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Brandonsams
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi there! I’m @[Brandonsams](https://github.com/Brandonsams)
 
-<!---
-Brandonsams/Brandonsams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👀 I’m interested in:
+
+- Data Science
+
+## 🛠 I have experience in using
+
+- .NET
+- Python
+
+## 🌱 I’m currently learning
+
+- CUDA
+
+## 📫 How to reach me
+
+- Email: brandonkeithsams@gmail.com
