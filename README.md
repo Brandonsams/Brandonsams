@@ -1,18 +1,20 @@
-# 👋 Hi there! I’m @[Brandonsams](https://github.com/Brandonsams)
+# 👋 Hi, I’m @[Brandonsams](https://github.com/Brandonsams)
 
-## 👀 I’m interested in:
+👀 I’m interested in Data Science
 
-- Data Science
-
-## 🛠 I have experience in using
+🛠 I have experience in using:
 
 - .NET
 - Python
+- Powershell
 
-## 🌱 I’m currently learning
+🌱 I’m currently learning
 
 - CUDA
+- Xamarin
 
-## 📫 How to reach me
+📫 Get in touch brandonkeithsams@gmail.com
 
-- Email: brandonkeithsams@gmail.com
+😃 I'm excited to see you here!
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
