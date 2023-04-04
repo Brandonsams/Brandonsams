@@ -10,8 +10,8 @@
 
 🌱 I’m currently learning
 
-- CUDA
-- Xamarin
+- scikit-learn
+- anything that comes my way
 
 📫 Get in touch brandonkeithsams@gmail.com
 
